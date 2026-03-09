@@ -40,6 +40,7 @@ The dashboard was built using the following tools and technologies:
 📌 Business Problem
 Businesses need a clear understanding of mobile sales performance to identify top brands, customer preferences, and payment trends.
 
+
 🎯 Goal of the Dashboard
 To provide an interactive platform for analyzing sales performance and generating useful business insights.
 
@@ -70,3 +71,17 @@ To provide an interactive platform for analyzing sales performance and generatin
 • Tracks sales trends across months and different time periods
 
 • Provides insights into customer satisfaction through ratings
+
+6. Screenshots / Demo
+
+Dashboard Overview  
+File Name: mobile-sales-dashboard-overview.jpeg  
+Link: https://github.com/ssharma858705-blip/Mobile-Sales-Project/blob/main/mobile-sales-dashboard-overview.jpeg
+
+MTD Sales Report  
+File Name: mobile-sales-mtd-report.jpeg  
+Link: https://github.com/ssharma858705-blip/Mobile-Sales-Project/blob/main/mobile-sales-mtd-report.jpeg
+
+Same Period Last Year Comparison  
+File Name: mobile-sales-yearly-comparison.jpeg  
+Link: https://github.com/ssharma858705-blip/Mobile-Sales-Project/blob/main/mobile-sales-yearly-comparison.jpeg
