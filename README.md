@@ -84,4 +84,4 @@ Link: https://github.com/ssharma858705-blip/Mobile-Sales-Project/blob/main/MTD%2
 
 Same Period Last Year Comparison  
 File Name: mobile-sales-yearly-comparison.jpeg  
-Link: https://github.com/ssharma858705-blip/Mobile-Sales-Project/blob/main/mobile-sales-yearly-comparison.jpeg
+Link: https://github.com/ssharma858705-blip/Mobile-Sales-Project/blob/main/Same%20Period%20Last%20Year%20Comparison%20Dahboard.jpeg
