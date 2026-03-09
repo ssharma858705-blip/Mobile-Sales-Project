@@ -76,7 +76,7 @@ To provide an interactive platform for analyzing sales performance and generatin
 
 Dashboard Overview  
 File Name: mobile-sales-dashboard-overview.jpeg  
-Link: https://github.com/ssharma858705-blip/Mobile-Sales-Project/blob/main/mobile-sales-dashboard-overview.jpeg
+Link: https://github.com/ssharma858705-blip/Mobile-Sales-Project/blob/main/Main%20Dashboard%20(overall%20sales%20view).jpeg
 
 MTD Sales Report  
 File Name: mobile-sales-mtd-report.jpeg  
