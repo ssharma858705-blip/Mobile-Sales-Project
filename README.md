@@ -1,2 +1,1 @@
-# Mobile-Sales-Project
-An interactive Mobile Sales Dashboard built using Power BI to analyze total sales, quantity, transactions, average price, brand performance, payment methods, and monthly trends with dynamic filters and visual insights.
+This project is a Mobile Sales Dashboard created in Power BI. It helps visualize and analyze mobile sales data including total sales, quantity sold, transactions, average price, brand performance, payment methods, and monthly sales trends. The dashboard includes interactive filters for mobile model, brand, and payment method to provide better business insights.
