@@ -80,7 +80,7 @@ Link: https://github.com/ssharma858705-blip/Mobile-Sales-Project/blob/main/mobil
 
 MTD Sales Report  
 File Name: mobile-sales-mtd-report.jpeg  
-Link: https://github.com/ssharma858705-blip/Mobile-Sales-Project/blob/main/mobile-sales-mtd-report.jpeg
+Link: https://github.com/ssharma858705-blip/Mobile-Sales-Project/blob/main/MTD%20_Report%20_Dashboard.jpeg
 
 Same Period Last Year Comparison  
 File Name: mobile-sales-yearly-comparison.jpeg  
