@@ -72,7 +72,7 @@ To provide an interactive platform for analyzing sales performance and generatin
 
 • Provides insights into customer satisfaction through ratings
 
-6. Screenshots / Demo
+6. Screenshots / Demos
 
 Dashboard Overview  
 File Name: mobile-sales-dashboard-overview.jpeg  
